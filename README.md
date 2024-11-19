@@ -1,5 +1,5 @@
 # Airbnb Listings Analysis 2024 (New York)
-
+![Example Image](wp10784396.webp)
 ## Objective
 The primary goals of this project are to:
 - Analyze room types, prices, and availability across different neighborhoods.
